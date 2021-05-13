@@ -1,6 +1,9 @@
 ## BTS 챗봇 에제
 
 안녕하세요, BTS 챗봇을 간단히 만들어보는 실습입니다.
+![—Pngtree—a beautiful sika deer free_4547192](https://user-images.githubusercontent.com/83766854/118125177-9b7d2800-b431-11eb-8448-80c0471d0b2e.png)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
